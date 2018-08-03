@@ -1,0 +1,19 @@
+{
+  "name": "traffic_data",
+  "version": "1.0.0",
+  "description": "Grab eta between two point at various times of the day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hienja/trafficData.git"
+  },
+  "author": "Hien Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hienja/trafficData/issues"
+  },
+  "homepage": "https://github.com/hienja/trafficData#readme"
+}
